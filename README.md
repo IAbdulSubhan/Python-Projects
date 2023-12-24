@@ -46,7 +46,57 @@ Welcome to the Tic Tac Toe game! This simple console-based Python application al
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/IAbdulSubhan/Python-Projects/
+
+## 3.Rock, Paper, Scissors Game
+
+## Overview
+
+This is a simple Rock, Paper, Scissors game implemented in Python. The game allows users to play against the computer and determine the winner based on their choices.
+
+## How to Play
+
+1. Run the game by executing the provided Python notebook (`RockScissorsPaper.ipynb`).
+2. The game will prompt you to enter your choice: Rock, Paper, or Scissors.
+3. The computer will randomly choose its option.
+4. The winner will be determined based on the Rock-Paper-Scissors rules.
+5. After each round, you will be asked if you want to play again.
+
+## Code Structure
+
+- The game logic is divided into several functions:
+  - `get_user_choice()`: Takes user input for their choice.
+  - `get_computer_choice()`: Generates a random choice for the computer.
+  - `determine_winner(user_choice, computer_choice)`: Determines the winner based on the choices.
+  - `rock_paper_scissors()`: Main function to run the game.
+
+- The game will keep running until the user decides not to play anymore.
+
+## 4.RoboSpeaker
+
+RoboSpeaker is a Python script that converts text to speech using the gTTS (Google Text-to-Speech) library. It allows users to input text through the console and plays the corresponding speech using IPython's Audio module.
+
+## Features
+
+- Text-to-speech conversion.
+- Customizable speech speed and language.
+- Simple console interface.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the `gtts` library installed. You can install it using the following command:
+
+1. Clone the repository to your local machine and install library:
+
+   ```bash
+   git clone https://github.com/IAbdulSubhan/Python-Projects/
+   pip install gtts
+
+
+
+
 
 
 
