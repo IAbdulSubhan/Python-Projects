@@ -11,6 +11,7 @@ This is a simple command-line-based Food Ordering System implemented in Python. 
 - View the current order and add more items if needed.
 - Calculate the total amount for the order.
 - Generate a bill for the completed order.
+   ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/project-demo/blob/main/foodordering.gif)
 
 ##### How to Use
 
