@@ -1,6 +1,6 @@
 # Python Projects
 
-## Food Ordering System with Python CMD
+## 1. Food Ordering System with Python CMD
 
 This is a simple command-line-based Food Ordering System implemented in Python. The program allows users to browse a menu, select items from different categories, specify quantities, and generate a bill for their order.
 
