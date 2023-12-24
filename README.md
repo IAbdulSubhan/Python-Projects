@@ -71,6 +71,8 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game allo
   - `rock_paper_scissors()`: Main function to run the game.
 
 - The game will keep running until the user decides not to play anymore.
+  ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/project-demo/blob/main/rs-paper.gif)
+
 
 ## 4.RoboSpeaker
 
