@@ -11,7 +11,7 @@ This is a simple command-line-based Food Ordering System implemented in Python. 
 - View the current order and add more items if needed.
 - Calculate the total amount for the order.
 - Generate a bill for the completed order.
-   ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/project-demo/blob/main/foodordering.gif)
+   ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/extras/blob/main/foodordering.gif)
 
 ##### How to Use
 
@@ -42,7 +42,7 @@ Welcome to the Tic Tac Toe game! This simple console-based Python application al
 4. **Winning:**
    - The game checks for a winner after each move.
    - The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins.
-      ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/project-demo/blob/main/tictactoe.gif)
+      ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/extras/blob/main/tictactoe.gif)
 
 ##### Getting Started
 
@@ -73,7 +73,7 @@ This is a simple Rock, Paper, Scissors game implemented in Python. The game allo
   - `rock_paper_scissors()`: Main function to run the game.
 
 - The game will keep running until the user decides not to play anymore.
-  ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/project-demo/blob/main/rs-paper.gif)
+  ![RoboSpeaker Demo](https://github.com/IAbdulSubhan/extras/blob/main/rs-paper.gif)
 
 
 ## 4.RoboSpeaker
