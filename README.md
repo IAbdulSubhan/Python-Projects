@@ -98,6 +98,40 @@ Ensure you have the `gtts` library installed. You can install it using the follo
    git clone https://github.com/IAbdulSubhan/Python-Projects/
    pip install gtts
 
+# Advance Projects
+
+## Cybersecurity ML Project 
+
+##### Introduction
+
+The rapid evolution of digital technology has brought forth new opportunities, but it also introduces challenges, notably the constant threat of cyberattacks. This project addresses the need for effective cybersecurity solutions by utilizing various classification and clustering methods to categorize cyberattacks in network traffic.
+
+##### Problem Formulation
+
+Cyberattacks are growing in sophistication daily, putting businesses at greater risk of data loss. This project aims to counter this threat by creating a predictive model using classification and clustering algorithms to accurately categorize cyberattacks. The impact of different feature engineering techniques on model performance is also investigated.
+
+##### Objective
+
+The primary goal is to build a predictive model capable of identifying and classifying network traffic containing cyberattacks. By exploring various classification and clustering algorithms, the project aims to deepen understanding in the field of cybersecurity. Practical experience with cutting-edge methods is provided, along with the evaluation of their efficacy in addressing cybersecurity challenges.
+
+##### Dataset Description
+
+The dataset comprises network traffic data for classifying network security attacks, containing instances of various attacks and normal traffic. The dataset includes nine types of attacks, such as Brute Force SSH, Command Injection, Heartbleed, HTTP DoS, HTTP Slow Loris, Infiltration, Malware, and XSS (Cross Site Scripting). Data preprocessing involves steps like data collection, cleaning, transformation, splitting, and feature selection.
+
+##### Classification and Clustering Algorithms
+
+The project employs the following algorithms for analysis:
+
+1. Decision Tree
+2. K-Nearest Neighbors (KNN)
+3. Artificial Neural Network (ANN)
+4. K-Mean Clustering
+
+##### Getting Started
+
+To replicate and build upon this project, follow the sections in the report detailing methodology, results, and conclusions. The project provides practical experience with diverse algorithms and strategies, enhancing skills in cybersecurity problem-solving.
+
+Feel free to explore, contribute, and adapt the project to strengthen cybersecurity solutions and protect sensitive data from evolving cyber threats.
 
 
 
